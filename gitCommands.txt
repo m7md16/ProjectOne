@@ -1,0 +1,14 @@
+git log
+git status
+git add <file name>
+git rm --cached <file name> // remove file from stage
+git remote -v
+git fetch origin
+git merge		//to merge master with origin
+git pull
+git branch -a 		// display all branches
+git push -u origin master //[-u] to link push to [master] and no need next time
+git branch <new branch name>  // to create a branch
+git checkout <exist branch name> // switch to branch
+git checkout -b <new branch name> // create then switch to a new branch name
+git merg <sub branch name>
